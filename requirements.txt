@@ -2,4 +2,5 @@ scikit-learn
 pandas
 numpy
 pymongo
-matplotlib 
+matplotlib
+seaborn
