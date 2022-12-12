@@ -4,3 +4,4 @@ numpy
 pymongo
 matplotlib
 seaborn
+nltk
