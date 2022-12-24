@@ -8,3 +8,5 @@ nltk
 plotly
 ipywidgets
 Jinja2
+PyYAML
+streamlit

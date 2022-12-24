@@ -1,0 +1,10 @@
+users:
+- age: 25
+  name: Alice
+  occupation: Software engineer
+- age: 32
+  name: Bob
+  occupation: Data scientist
+- age: 28
+  name: Charlie
+  occupation: DevOps engineer
