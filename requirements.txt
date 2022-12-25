@@ -10,3 +10,4 @@ ipywidgets
 Jinja2
 PyYAML
 streamlit
+pymongo
